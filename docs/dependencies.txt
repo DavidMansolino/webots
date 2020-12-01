@@ -27,3 +27,4 @@ https://cyberbotics.com/wwi/R2020b/request_methods.js
 https://cyberbotics.com/wwi/R2020b/wwi.css 
 https://cyberbotics.com/wwi/R2020b/webots.min.js
  
+ 
