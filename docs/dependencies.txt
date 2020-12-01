@@ -24,5 +24,5 @@ https://cdnjs.cloudflare.com/ajax/libs/ace/1.2.0/ace.js
 # wwi
 
 https://cyberbotics.com/wwi/R2020b/request_methods.js
-https://cyberbotics.com/wwi/R2020b/wwi.css
+https://cyberbotics.com/wwi/R2020b/wwi.css 
 https://cyberbotics.com/wwi/R2020b/webots.min.js
